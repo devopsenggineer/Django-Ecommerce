@@ -34,6 +34,18 @@ Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
 
 # For Mac/ Linux
 
+    sudo apt install git
+    git clone https://github.com/devopsenggineer/Django-Ecommerce.git
+    cd Django-Ecommerce/
+    sudo apt install python3-pip
+    sudo apt install virtualenv
+    sudo apt-get install libpq-dev python3-dev -y
+    virtualenv -p python3 env
+    source env/bin/activate
+    pip3 install -r requirements.txt    
+    python3 manage.py runserver 
+
+
 `source env/bin/activate`
 
 # For Window
