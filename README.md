@@ -65,4 +65,4 @@ https://colorlib.com/etc/fashe/index.html
 
 # Run in docker
 
-docker run -d -p 8000:8000 --name django-ecommerce devopssysadmin/django-ecommerce:0.0
+docker run -d -p 8000:8000 --name django-ecommerce devopssysadmin/django-ecommerce:latest
