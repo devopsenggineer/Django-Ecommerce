@@ -44,6 +44,9 @@ Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
     source env/bin/activate
     pip3 install -r requirements.txt    
     python3 manage.py runserver 
+    
+    Now access site at this url
+    http://127.0.0.1:8000/ or http://localhost:8000
 
 
 `source env/bin/activate`
